@@ -1,0 +1,16 @@
+{
+  "name": "jx-market-bot-order",
+  "version": "29.5.06",
+  "description": "Bot JX Market dengan sistem Order QRIS dan Database JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=16.11.0"
+  }
+}
